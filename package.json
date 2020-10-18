@@ -1,0 +1,24 @@
+{
+  "name": "melody",
+  "version": "1.2.10",
+  "description": " Melody is a Discord chat bot.",
+  "author": "void206551",
+  "license": "BSD 3-Clause",
+  "keywords": [
+    "Discord",
+    "Bot",
+    "Node.js",
+    "Discord.js",
+    "Heroku",
+    "GitHub"
+  ],
+  "bugs": {
+    "url": "https://github.com/void-melody/melody/issues"
+  },
+  "homepage": "https://github.com/void-melody/melody#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/void-melody/melody.git"
+  },
+  "devDependencies": {}
+}
