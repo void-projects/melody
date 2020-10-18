@@ -1,6 +1,6 @@
 # Melody
 
-![GitHub package.json version](https://img.shields.io/github/package-json/v/void-melody/melody?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/void-melody/melody?style=for-the-badge) [![Discord](https://img.shields.io/discord/730632045465960529?color=%23738ADB&label=Discord&logo=Discord&style=for-the-badge)](https://discord.gg/9Gd82jJ) [![Invite Bot](https://img.shields.io/badge/Invite-Bot-738ADB?style=for-the-badge)](https://discord.com/oauth2/authorize?client_id=662469470618648576&scope=bot&permissions=67497158)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/void-melody/melody?style=for-the-badge)![GitHub last commit](https://img.shields.io/github/last-commit/void-melody/melody?style=for-the-badge)[![Discord](https://img.shields.io/discord/730632045465960529?color=%23738ADB&label=Discord&logo=Discord&style=for-the-badge)](https://discord.gg/9Gd82jJ)[![Invite Bot](https://img.shields.io/badge/Invite-Bot-738ADB?style=for-the-badge)](https://discord.com/oauth2/authorize?client_id=662469470618648576&scope=bot&permissions=67497158)
 
 |  |
 | :---: |
@@ -40,6 +40,8 @@ No bugs at the moment. If you find any please [report them](https://github.com/v
 | `wholesome` | Melody sends a wholesome meme |  |
 | `roast` | Melody roasts the mentioned user |  |
 | `toast` | Melody compliments the mentioned user |  |
+| `say` | Command Melody to say something |  |
+| `owo` | Command Melody to say something with an owo filter |  |
 
 ### Admin
 
